@@ -11,8 +11,8 @@ namespace PDFPublisher
     /// </summary>
     class Program
     {
-        static int Main(string[] args)
-        {
+        static int Main(string[] args) 
+        { 
             const int RET_OK = 0;
             const int RET_ERR = 1;
             //Test();
